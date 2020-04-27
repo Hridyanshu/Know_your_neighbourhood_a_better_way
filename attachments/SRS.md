@@ -1,5 +1,13 @@
-G1
-------------------------------------
+# Project Plan: Know_your_neighbourhood_a_better_way
+
+## 1. Introduction
+
+This Software Requirements Specification Document lists sufficient and necessary requirements for the development of our project "Know your neighbourhood a better way". To derive the requirements, the developers need to have a clear and thorough understanding of the products under development. This is achieved through detailed and continuous communication with the project team and customers throughout the software development process.
+
+## 2. Overview
+
+Daily hundreds of people have to shift to some new places due to their jobs or some other factors. These people face as the place is totally new to them. In such cases, it can be of great help if they have local people helping them. This project aims to develop a dedicated platform for such people that will provide them the opportunity to connect with other people of the locality where they shifted or are going to shift. For example, a person is going to shift to a new place due to his job. He will register himself on the application and will get the profiles of people who are already living there. Then he will be able to communicate with them either anonymously or by revealing his identity. This way, he will be able to get familiar with the people around him through our application. Thus, the person will be able to get help from the neighbors and will get familiar with the place easily, without facing much challenges.
+
 ## 2.1  Customers:
 
 Our project aims to functional and easily accessible to all. Anyone can use this application ranging from a child to an old-age person.
