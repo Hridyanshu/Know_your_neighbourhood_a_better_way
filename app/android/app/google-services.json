@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594132307597",
+    "firebase_url": "https://know-your-neighbourhood-526e8.firebaseio.com",
+    "project_id": "know-your-neighbourhood-526e8",
+    "storage_bucket": "know-your-neighbourhood-526e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594132307597:android:f6dce7303541a8a0855cc4",
+        "android_client_info": {
+          "package_name": "divij.knowyourneighbourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594132307597-j04f4igh4srvfkrgca0thcakupev5v70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMP6qpbusalt6Ob-zoQ-9tbHyTUri9Ch8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594132307597-j04f4igh4srvfkrgca0thcakupev5v70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
