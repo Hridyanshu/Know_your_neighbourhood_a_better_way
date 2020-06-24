@@ -1,8 +1,11 @@
+// ignore: avoid_web_libraries_in_flutter
+//import 'dart:html';
+
 import 'package:flutter/material.dart';
 import 'package:knowyourneighbourapp/components/rounded_button.dart';
 import 'package:knowyourneighbourapp/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'chat_screen.dart';
+import 'package:knowyourneighbourapp/screens/LocationScreen.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 class LoginScreen extends StatefulWidget {
@@ -74,7 +77,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   if(newUser!=null){
                     var user = await _auth.currentUser();
                     if (user.isEmailVerified) {
-                      Navigator.pushNamed(context, ChatScreen.id);
+                      Navigator.pushNamed(context, LocationScreen.id);
                     }
                     else {
                       Alert(
