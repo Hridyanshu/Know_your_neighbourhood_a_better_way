@@ -6,7 +6,6 @@ import 'package:knowyourneighbourapp/components/rounded_button.dart';
 import 'package:knowyourneighbourapp/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:knowyourneighbourapp/screens/LocationScreen.dart';
-import 'chat_screen.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 class LoginScreen extends StatefulWidget {
